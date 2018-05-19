@@ -5,3 +5,4 @@
 ### 4.[demo4-Deep Dream](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo4-Deep%20Dream)
 ### 5.[demo5-深度学习中的目标检测](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo5-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B)
 ### 7.[demo7-图像风格迁移](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo7-%E5%9B%BE%E5%83%8F%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB)
+### 8.[demo8-GAN与DCGAN入门](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo8-GAN%E4%B8%8EDCGAN%E5%85%A5%E9%97%A8)
