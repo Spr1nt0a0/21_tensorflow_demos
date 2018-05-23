@@ -8,3 +8,4 @@
 ### 8.[demo8-GAN与DCGAN入门](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo8-GAN%E4%B8%8EDCGAN%E5%85%A5%E9%97%A8)
 ### 9.[demo9-pix2pix模型与自动上色技术](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo9-pix2pix%E6%A8%A1%E5%9E%8B%E4%B8%8E%E8%87%AA%E5%8A%A8%E4%B8%8A%E8%89%B2%E6%8A%80%E6%9C%AF)
 ### 11.[demo11-CycleGAN与非配对图像转换](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo11-CycleGAN%E4%B8%8E%E9%9D%9E%E9%85%8D%E5%AF%B9%E5%9B%BE%E5%83%8F%E8%BD%AC%E6%8D%A2)
+### 12.[demo12-RNN基本结构与Char RNN文本生成](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo12-RNN%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%E4%B8%8EChar%20RNN%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90)
