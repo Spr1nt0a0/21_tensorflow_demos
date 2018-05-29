@@ -11,3 +11,4 @@
 ### 12.[demo12-RNN基本结构与Char RNN文本生成](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo12-RNN%E5%9F%BA%E6%9C%AC%E7%BB%93%E6%9E%84%E4%B8%8EChar%20RNN%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90)
 ### 13.[demo13-序列分类](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo13-%E5%BA%8F%E5%88%97%E5%88%86%E7%B1%BB)
 ### 15.[demo15-在TensorFlow 中进行时间序列预测](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo15-%E5%9C%A8TensorFlow%20%E4%B8%AD%E8%BF%9B%E8%A1%8C%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B)
+### 18.[demo18-强化学习入门之Q Learning](https://github.com/Spr1nt0a0/21_tensorflow_demos/tree/master/demo18-%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E4%B9%8BQ%20Learning)
